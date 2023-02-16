@@ -6,7 +6,7 @@ This project was completed for UNSW SENG3011. The team created a web application
 The project members are:
 - Jonathan Lin
 - Callum Jones
-- Abdullar Alghrer
+- Abdullah Alghrer
 - Negin Ghanavi
 - Tung Hoang
 
