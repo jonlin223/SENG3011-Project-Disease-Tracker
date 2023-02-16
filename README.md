@@ -9,6 +9,7 @@ The project members are:
 - Abdullar Alghrer
 - Negin Ghanavi
 - Tung Hoang
+
 This project is originally hosted [here](https://github.com/callum-jones19/SENG3011_The-Implementers)
 
 Our CDC API currently supports queries on breakouts for the followning diseases:
