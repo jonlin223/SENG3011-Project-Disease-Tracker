@@ -12,6 +12,8 @@ The project members are:
 
 This project is originally hosted [here](https://github.com/callum-jones19/SENG3011_The-Implementers)
 
+## Note
+
 Our CDC API currently supports queries on breakouts for the followning diseases:
 - Listeriosis
 - Measles
