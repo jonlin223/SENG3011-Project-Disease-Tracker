@@ -1,6 +1,15 @@
 # SENG3011_The-Implementers
 
-[![implementers-main Actions Status](https://github.com/callum-jones19/SENG3011_The-Implementers/workflows/github-actions-tests/badge.svg)](https://github.com/callum-jones19/SENG3011_The-Implementers/actions)
+## Introduction
+
+This project was completed for UNSW SENG3011. The team created a web application interfacing with API and scraping tools.
+The project members are:
+- Jonathan Lin
+- Callum Jones
+- Abdullar Alghrer
+- Negin Ghanavi
+- Tung Hoang
+This project is originally hosted [here](https://github.com/callum-jones19/SENG3011_The-Implementers)
 
 Our CDC API currently supports queries on breakouts for the followning diseases:
 - Listeriosis
